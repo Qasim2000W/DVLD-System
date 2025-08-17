@@ -1,0 +1,9 @@
+H:\Business\bin\Release\Business.dll
+H:\Business\bin\Release\Business.pdb
+H:\Business\bin\Release\ClsDataAccess.dll
+H:\Business\bin\Release\ClsDataAccess.pdb
+H:\Business\obj\Release\Business.csproj.AssemblyReference.cache
+H:\Business\obj\Release\Business.csproj.CoreCompileInputs.cache
+H:\Business\obj\Release\Business.csproj.Up2Date
+H:\Business\obj\Release\Business.dll
+H:\Business\obj\Release\Business.pdb

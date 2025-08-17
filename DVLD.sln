@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD", "DVLD.csproj", "{0098BE14-700B-44D1-9369-A1746AE22E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClsDataAccess", "..\ClsDataAccess\ClsDataAccess.csproj", "{1B5A647D-CA47-4255-A8FC-F62D80CD8148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "..\Business\Business.csproj", "{D269D9C4-D05B-4F2A-9DAA-F1A8F2C7F118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0098BE14-700B-44D1-9369-A1746AE22E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0098BE14-700B-44D1-9369-A1746AE22E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0098BE14-700B-44D1-9369-A1746AE22E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0098BE14-700B-44D1-9369-A1746AE22E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5A647D-CA47-4255-A8FC-F62D80CD8148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5A647D-CA47-4255-A8FC-F62D80CD8148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5A647D-CA47-4255-A8FC-F62D80CD8148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5A647D-CA47-4255-A8FC-F62D80CD8148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D269D9C4-D05B-4F2A-9DAA-F1A8F2C7F118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D269D9C4-D05B-4F2A-9DAA-F1A8F2C7F118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D269D9C4-D05B-4F2A-9DAA-F1A8F2C7F118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D269D9C4-D05B-4F2A-9DAA-F1A8F2C7F118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

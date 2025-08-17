@@ -1,0 +1,6 @@
+H:\ClsDataAccess\bin\Release\ClsDataAccess.dll
+H:\ClsDataAccess\bin\Release\ClsDataAccess.pdb
+H:\ClsDataAccess\obj\Release\ClsDataAccess.csproj.AssemblyReference.cache
+H:\ClsDataAccess\obj\Release\ClsDataAccess.csproj.CoreCompileInputs.cache
+H:\ClsDataAccess\obj\Release\ClsDataAccess.dll
+H:\ClsDataAccess\obj\Release\ClsDataAccess.pdb
