@@ -6,7 +6,7 @@ The username/password values in the app config are placeholders. Replace them wi
 
 Server=YOUR_DB_HOST;Database=DVLDNew;User Id=YOUR_DB_USER;Password=YOUR_DB_PASSWORD;
 Bypass the login screen with this data: Username=Qas Password=1234
-To create a quick test user:
+or To create a quick test user:
 
 INSERT INTO dbo.[users] (username, password, /* other columns as needed */)
 VALUES ('testuser','testpassword' /*, other column values */);
